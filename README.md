@@ -1,4 +1,4 @@
-# clipped_Resistors
+# 2800 clipped_Resistors
 
 This repository contains a resized and edited version of the Resistor Dataset for better annotation purposes.
 
